@@ -1,0 +1,78 @@
+
+<html>
+	<head>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+     	<link 	rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+   				integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+   				crossorigin=""/>
+    
+     	<!-- Make sure you put this AFTER Leaflet's CSS -->
+ 		<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+   				integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+   				crossorigin=""></script>    
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/geojson/0.5.0/geojson.js"></script>
+    
+<link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+<script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+    
+<script src="func.js"></script>
+    
+</head>
+    
+<div id="mapid" style="height: 90% ; width: 100% ;" ></div>
+<body style="text-align: center";>
+	<button onclick="findPark()">Find Dog Park</button>
+</body>
+
+<script>
+ // Center the map to Ashdod, Israel
+ // Bind the map to the #map HTML element
+    
+ var map = L.map("mapid").setView([32.095, 34.783], 12);
+  
+    
+ // Get the map layer
+ L.tileLayer(
+ 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+ {
+ maxZoom: 17,
+ minZoom: 1
+ }
+ ).addTo(map);
+
+var geojsonMarkerOptions = {
+    radius: 8,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+};
+
+    var parkIcon = L.icon({
+        iconUrl: 'dogPark.png',
+        iconSize: [32, 37], // size of the icon
+        iconAnchor: [17, 36], // point of the icon which will correspond to marker's location
+        popupAnchor: [-1, -32], // point from which the popup should open relative to the iconAnchor
+    });
+
+
+var geojsonLayer = new L.GeoJSON.AJAX("Dog-ParksW84.geojson", {
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon:parkIcon});
+    }
+});
+
+
+
+/*L.geoJson(geojsonLayer, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+    }
+}).addTo(map);*/
+geojsonLayer.addTo(map);
+
+</script>
+</html> 
+    

@@ -1,0 +1,1610 @@
+{
+	"type": "FeatureCollection",
+	"name": "Dog-ParksW84",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 1.0,
+				"Idgina": 40.0,
+				"shemrechov": "׳׳׳™׳₪׳׳˜",
+				"msbait": 5.0,
+				"shemgina": "׳’׳ ׳¡׳“׳ ׳× ׳”׳׳׳ ׳™׳ ׳“׳¨׳•׳™׳׳ ׳•׳‘",
+				"teurmikum": "׳©׳›׳•׳ ׳× ׳₪׳׳•׳¨׳ ׳˜׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.765218084097761, 32.057124429007651]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 2.0,
+				"Idgina": 35.0,
+				"shemrechov": null,
+				"msbait": 0.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳׳ ׳—׳ ׳‘׳’׳™׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.803885938950224, 32.042927047163545]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 3.0,
+				"Idgina": 28.0,
+				"shemrechov": "׳”׳׳׳ ׳’'׳•׳¨׳’'",
+				"msbait": 35.0,
+				"shemgina": "׳’׳ ׳׳׳™׳¨",
+				"teurmikum": null,
+				"shaot": "׳‘׳—׳•׳“׳© ׳™׳•׳ ׳™-׳׳•׳’׳•׳¡׳˜ ( ׳›׳•׳׳ ) 6:00-23:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.774202587783094, 32.072706814756131]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 4.0,
+				"Idgina": 24.0,
+				"shemrechov": "׳׳™׳¡׳™׳",
+				"msbait": 25.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳׳™׳¡׳™׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.793666620305181, 32.085276121270795]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 5.0,
+				"Idgina": 20.0,
+				"shemrechov": "׳©׳˜׳™׳™׳ ׳׳",
+				"msbait": 11.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳©׳˜׳™׳™׳ ׳׳",
+				"teurmikum": "׳©׳›׳•׳ ׳× ׳‘׳‘׳׳™",
+				"shaot": "7:00-22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.800931370323639, 32.098331010064449]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 6.0,
+				"Idgina": 23.0,
+				"shemrechov": "׳¡׳•׳˜׳™׳",
+				"msbait": 22.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳ ׳”׳¨׳“׳¢׳",
+				"teurmikum": null,
+				"shaot": "7:00-22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.786253099284693, 32.082138347293935]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 7.0,
+				"Idgina": 12.0,
+				"shemrechov": "׳¨׳•׳׳ ׳•",
+				"msbait": 1.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳¨׳•׳׳ ׳•",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.815065580820843, 32.121116385519343]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 8.0,
+				"Idgina": 17.0,
+				"shemrechov": "׳§׳•׳¡׳•׳‘׳¡׳§׳™",
+				"msbait": 69.0,
+				"shemgina": "׳’׳™׳ ׳× ׳¨׳׳© ׳¦׳™׳₪׳•׳¨",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.803842681227898, 32.097693625487118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 9.0,
+				"Idgina": 18.0,
+				"shemrechov": "׳‘׳ ׳™ ׳“׳",
+				"msbait": 37.0,
+				"shemgina": "׳’׳™׳ ׳× ׳‘׳ ׳™ ׳“׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.785188242303086, 32.095851007781157]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 10.0,
+				"Idgina": 26.0,
+				"shemrechov": "׳™׳—׳–׳§׳׳",
+				"msbait": 3.0,
+				"shemgina": "׳’׳ ׳’׳™׳׳₪׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.777694632223628, 32.093355498543573]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 11.0,
+				"Idgina": 31.0,
+				"shemrechov": "׳‘׳¨׳ ׳˜",
+				"msbait": 2.0,
+				"shemgina": "׳‘׳¨׳ ׳˜ 2 ׳₪. ׳”׳׳¨׳“",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.761876784090099, 32.06136937669482]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 12.0,
+				"Idgina": 43.0,
+				"shemrechov": "׳׳׳‘׳¨׳˜ ׳§׳™׳•׳¡׳•",
+				"msbait": 11.0,
+				"shemgina": "׳—׳•׳¨׳©׳” ׳׳׳‘׳¨׳˜ ׳§׳™׳•׳¡׳•",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.754510143860969, 32.049551486464154]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 13.0,
+				"Idgina": 37.0,
+				"shemrechov": "׳׳¢׳₪׳™׳׳™ ׳׳’׳•׳–",
+				"msbait": 73.0,
+				"shemgina": "׳׳¢׳₪׳™׳׳™ ׳׳’׳•׳– 73",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.808869324154912, 32.05443018543582]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 14.0,
+				"Idgina": 9.0,
+				"shemrechov": "׳’׳•׳׳™ ׳׳¨׳™׳×׳¨׳™׳׳”",
+				"msbait": 5.0,
+				"shemgina": "׳”׳’׳•׳׳ 3",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.830628560196736, 32.107353532407082]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 15.0,
+				"Idgina": 3.0,
+				"shemrechov": "׳“׳¨׳–׳ ׳¨",
+				"msbait": 5.0,
+				"shemgina": "׳“׳¨׳–׳ ׳¨ ׳׳¢׳¨׳‘",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.802509042040889, 32.128042756453944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 16.0,
+				"Idgina": 30.0,
+				"shemrechov": "׳˜׳‘׳¨׳™׳”",
+				"msbait": 1.0,
+				"shemgina": "׳˜׳‘׳¨׳™׳” 1",
+				"teurmikum": null,
+				"shaot": "7:00-22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.770379483866691, 32.07607285234846]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 17.0,
+				"Idgina": 6.0,
+				"shemrechov": "׳”׳₪׳¨׳¡׳”",
+				"msbait": 19.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳׳•׳“׳¢׳™",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.834485898743452, 32.123370800826052]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 18.0,
+				"Idgina": 7.0,
+				"shemrechov": "׳׳“׳™׳¨׳™׳",
+				"msbait": 24.0,
+				"shemgina": "׳’׳ ׳׳“׳™׳¨׳™׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.839443216213184, 32.123165597446672]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 19.0,
+				"Idgina": 34.0,
+				"shemrechov": "׳׳©׳” ׳“׳™׳™׳",
+				"msbait": 117.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳”׳•׳¨׳•׳“׳¦׳§׳™ ׳₪. ׳׳©׳” ׳“׳™׳™׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.799416387610741, 32.064719655045145]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 20.0,
+				"Idgina": 29.0,
+				"shemrechov": "׳›׳¨׳ ׳”׳×׳™׳׳ ׳™׳",
+				"msbait": 2.0,
+				"shemgina": "׳’׳ ׳”׳›׳•׳‘׳©׳™׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.767103118141193, 32.070652254977688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 21.0,
+				"Idgina": 4.0,
+				"shemrechov": "׳¨׳“׳™׳ ׳’ 32",
+				"msbait": 32.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳¨׳“׳™׳ ׳’",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.794446651635738, 32.108413051493912]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 22.0,
+				"Idgina": 8.0,
+				"shemrechov": "׳¨׳׳•׳× ׳ ׳₪׳×׳׳™",
+				"msbait": 13.0,
+				"shemgina": "׳’׳ ׳©׳•׳©׳ ׳™ ׳”׳’׳“׳•׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.836624224088901, 32.115409560578733]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 23.0,
+				"Idgina": 15.0,
+				"shemrechov": "׳§׳”׳™׳׳× ׳•׳¨׳©׳”",
+				"msbait": 75.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳₪׳¨׳ ׳§׳₪׳•׳¨׳˜",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.821342080659001, 32.110019397182221]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 24.0,
+				"Idgina": 51.0,
+				"shemrechov": "׳¢׳•׳₪׳¨ ׳›׳”׳",
+				"msbait": 16.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳”׳—׳•׳¨׳©׳•׳×- ׳¢׳•׳₪׳¨ ׳›׳”׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.772670772853054, 32.046665570114996]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 25.0,
+				"Idgina": 21.0,
+				"shemrechov": "׳¢׳§׳™׳‘׳ ׳׳¨׳™׳” 1",
+				"msbait": 0.0,
+				"shemgina": "׳›׳›׳¨ ׳”׳׳“׳™׳ ׳” ׳׳•׳ ׳¢׳§׳™׳‘׳ ׳׳¨׳™׳”",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.790787841218318, 32.087426411329169]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 26.0,
+				"Idgina": 16.0,
+				"shemrechov": "׳©׳˜׳¨׳™׳×",
+				"msbait": 0.0,
+				"shemgina": "׳‘׳ ׳™  ׳׳₪׳¨׳™׳ ׳₪.׳©׳˜׳¨׳™׳× ׳‘׳—׳•׳¨׳©׳”",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.823335874578298, 32.107670035901691]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 27.0,
+				"Idgina": 1.0,
+				"shemrechov": "׳׳•׳¨׳™ ׳¦׳‘׳™ ׳’׳¨׳™׳ ׳‘׳¨׳’",
+				"msbait": 25.0,
+				"shemgina": "׳—׳•׳¨׳©׳” ׳׳¢׳¨׳‘׳™׳× ׳׳’׳ ׳”׳׳™׳™׳¡׳“׳™׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.791787400817697, 32.130037549366861]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 28.0,
+				"Idgina": 14.0,
+				"shemrechov": "׳׳©׳›׳ ׳–׳™",
+				"msbait": 33.0,
+				"shemgina": "׳’׳ ׳׳©׳›׳ ׳–׳™",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.828160735715223, 32.110749703914166]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 29.0,
+				"Idgina": 13.0,
+				"shemrechov": "׳¨׳₪׳™׳“׳™׳",
+				"msbait": 22.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳¨׳₪׳™׳“׳™׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.810059879710188, 32.113119467325625]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 30.0,
+				"Idgina": 5.0,
+				"shemrechov": "׳•׳™׳׳ ׳¡׳§׳™",
+				"msbait": 16.0,
+				"shemgina": "׳׳©׳” ׳•׳™׳׳ ׳¡׳§׳™16 ׳₪.׳§׳™׳₪׳ ׳™׳¡",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.830129774826638, 32.128593993925953]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 31.0,
+				"Idgina": 10.0,
+				"shemrechov": "׳׳‘׳¦׳¢ ׳§׳“׳©",
+				"msbait": 4.0,
+				"shemgina": "׳§׳”׳™׳׳× ׳¨׳™׳’׳ ׳₪.׳׳‘׳¦׳¢ ׳§׳“׳©",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.820663339773773, 32.11287555474555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 32.0,
+				"Idgina": 41.0,
+				"shemrechov": "׳¨׳™׳ ׳’׳׳‘׳׳•׳",
+				"msbait": 20.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳׳•׳₪׳˜׳•׳©׳•",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.780796313618595, 32.040968415105418]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 33.0,
+				"Idgina": 32.0,
+				"shemrechov": "׳”׳”׳©׳›׳׳”",
+				"msbait": 18.0,
+				"shemgina": "׳©׳“' ׳”׳”׳©׳›׳׳” 18",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.796525363039422, 32.067268936783748]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 34.0,
+				"Idgina": 22.0,
+				"shemrechov": "׳¢׳§׳™׳‘׳ ׳׳¨׳™׳” 1",
+				"msbait": 0.0,
+				"shemgina": "׳›׳›׳¨ ׳”׳׳“׳™׳ ׳”",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.789893851086497, 32.086794184526134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 35.0,
+				"Idgina": 25.0,
+				"shemrechov": "׳‘׳™׳׳˜׳׳•׳¨",
+				"msbait": 12.0,
+				"shemgina": "׳’׳ ׳‘׳™׳׳˜׳׳•׳¨",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.787796405369804, 32.088406031383201]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 36.0,
+				"Idgina": 41.0,
+				"shemrechov": "׳”׳©׳׳•׳",
+				"msbait": 120.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳•׳•׳׳₪׳¡׳•׳",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.807434538424367, 32.059532043488865]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 37.0,
+				"Idgina": 42.0,
+				"shemrechov": "׳׳׳” ׳₪׳™׳ ׳× ׳’׳׳™׳§׳¡׳‘׳¨׳’",
+				"msbait": 0.0,
+				"shemgina": "׳—׳•׳¨׳©׳” ׳‘׳¨׳—׳•׳‘ ׳׳׳” ׳₪׳™׳ ׳× ׳’׳׳™׳§׳¡׳‘׳¨׳’",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.822396306297954, 32.118616597642045]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 38.0,
+				"Idgina": 43.0,
+				"shemrechov": "׳”׳™׳¨׳§׳•׳",
+				"msbait": 228.0,
+				"shemgina": "׳’׳ ׳”׳¢׳¦׳׳׳•׳× ׳׳•׳ ׳¨׳—׳•׳‘ ׳”׳™׳¨׳§׳•׳ 228",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.772388749317379, 32.090447967941692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 39.0,
+				"Idgina": 44.0,
+				"shemrechov": "׳™׳”׳•׳“׳” ׳”׳׳•׳™",
+				"msbait": 84.0,
+				"shemgina": "׳’׳ ׳§׳¨׳™׳× ׳¡׳₪׳¨",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.780937038363348, 32.068429495954092]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 40.0,
+				"Idgina": 46.0,
+				"shemrechov": "׳•׳•׳׳₪׳¡׳•׳",
+				"msbait": 48.0,
+				"shemgina": "׳—׳ ׳™׳•׳ ׳©׳•׳§ ׳’׳‘׳¢׳× ׳¢׳׳™׳”",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.774318516716399, 32.058049028964227]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 41.0,
+				"Idgina": 47.0,
+				"shemrechov": "׳©׳₪׳¢ ׳˜׳",
+				"msbait": 2.0,
+				"shemgina": "׳¨׳—׳•׳‘ ׳©׳₪׳¢ ׳˜׳ 2",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.790293130410369, 32.071822921060516]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 42.0,
+				"Idgina": 48.0,
+				"shemrechov": "׳׳‘׳ ׳“׳”",
+				"msbait": 37.0,
+				"shemgina": "׳׳‘׳ ׳“׳”37",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.782998758484815, 32.057186896352036]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 43.0,
+				"Idgina": 55.0,
+				"shemrechov": "׳×׳“׳”׳¨",
+				"msbait": 46.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳ ׳™ ׳™׳”׳•׳“׳”",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.786147351485042, 32.050414886703365]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 44.0,
+				"Idgina": 56.0,
+				"shemrechov": "׳׳¨׳‘׳¨ ׳׳ ׳—׳",
+				"msbait": 14.0,
+				"shemgina": "׳׳¨׳‘׳¨ ׳׳ ׳—׳ 14",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.767019147973798, 32.042345692927576]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 45.0,
+				"Idgina": 49.0,
+				"shemrechov": "׳”׳›׳•׳‘׳©׳™׳",
+				"msbait": 78.0,
+				"shemgina": "׳”׳›׳•׳‘׳©׳™׳ 78",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.76437716491084, 32.066840617724544]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 46.0,
+				"Idgina": 50.0,
+				"shemrechov": "׳“׳•׳© ( ׳§׳¨׳™׳׳ ׳’׳¨׳“׳•׳© )",
+				"msbait": 1.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳¦׳׳¨׳×",
+				"teurmikum": "׳₪׳™׳ ׳” ׳׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.798116396056976, 32.089278824299114]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 47.0,
+				"Idgina": 52.0,
+				"shemrechov": "׳”׳×׳™׳‘׳•׳ ׳™׳",
+				"msbait": 42.0,
+				"shemgina": null,
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.779821522969996, 32.053656972876126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 48.0,
+				"Idgina": 53.0,
+				"shemrechov": "׳׳” ׳’׳•׳׳¨׳“׳™׳”",
+				"msbait": 59.0,
+				"shemgina": "׳׳” ׳’׳•׳׳¨׳“׳™׳” 59",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.797035191878223, 32.059419689528625]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 49.0,
+				"Idgina": 54.0,
+				"shemrechov": "׳“׳•׳‘׳ ׳•׳‘",
+				"msbait": 24.0,
+				"shemgina": "׳’׳ ׳“׳•׳‘׳ ׳•׳‘",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.78348335165559, 32.07889489741072]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 50.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳”׳¨׳‘ ׳׳©׳™",
+				"msbait": 14.0,
+				"shemgina": "׳’׳ ׳₪׳•׳׳™׳˜׳™",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.799274773146188, 32.120641379866001]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 51.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳§׳”׳™׳׳× ׳•׳¨׳©׳”",
+				"msbait": 75.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳₪׳¨׳ ׳§׳₪׳•׳¨׳˜",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": "7:00-22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.822975899179134, 32.109456195045915]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 52.0,
+				"Idgina": null,
+				"shemrechov": "׳•׳™׳׳ ׳¡׳§׳™ ׳׳©׳”",
+				"msbait": 16.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳•׳™׳׳ ׳¡׳§׳™ ׳׳©׳”",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.8321048329734, 32.127983259694034]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 53.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳§׳”׳™׳׳× ׳§׳™׳™׳‘",
+				"msbait": 1.0,
+				"shemgina": "׳§׳”׳™׳׳× ׳§׳™׳™׳‘",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.818716566808661, 32.113889910978386]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 54.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳©׳›׳ ׳–׳™",
+				"msbait": 33.0,
+				"shemgina": "׳’׳ ׳׳©׳›׳ ׳–׳™",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.830163591363892, 32.110381109845285]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 55.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳“׳™׳¨׳™׳",
+				"msbait": 24.0,
+				"shemgina": "׳’׳ ׳׳“׳™׳¨׳™׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.841441537821346, 32.122466038537283]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 56.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳”׳₪׳¨׳¡׳”",
+				"msbait": 19.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳׳•׳“׳¢׳™",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.837422850112517, 32.121261622872233]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 57.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳¨׳₪׳™׳“׳™׳",
+				"msbait": 22.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳¨׳₪׳™׳“׳™׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.811687481282704, 32.112485575066145]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 58.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳©׳“׳¨׳•׳× ׳‘׳ ׳’׳•׳¨׳™׳•׳\\׳”׳“׳¡׳” 3",
+				"msbait": 93.0,
+				"shemgina": "׳’׳ ׳”׳¢׳™׳¨",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": "7:00-22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.779639477658037, 32.082135613534035]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 59.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳©׳” ׳“׳™׳™׳",
+				"msbait": 62.0,
+				"shemgina": "׳׳©׳” ׳“׳™׳™׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.801123288267142, 32.057706706585058]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 60.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳ ׳—׳ ׳׳“׳׳•׳",
+				"msbait": 1.0,
+				"shemgina": "׳’׳ ׳¨׳׳© ׳”׳›׳₪׳¨",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.80475963914661, 32.050371355428837]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 61.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳™׳’׳׳ ׳׳׳•׳",
+				"msbait": 165.0,
+				"shemgina": "׳™׳’׳׳ ׳׳׳•׳ 165 ׳₪׳™׳ ׳× ׳¢׳¨׳‘׳™ ׳ ׳—׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.798494898309066, 32.079370110727922]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 62.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳×׳©׳¨׳™",
+				"msbait": 40.0,
+				"shemgina": "׳’׳ ׳“׳’׳׳׳¡",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.789906780353498, 32.04512967446081]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 63.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳©׳’׳׳ ׳׳¨׳§",
+				"msbait": 1.0,
+				"shemgina": "׳׳¨׳§ ׳©׳’׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.787089429074804, 32.118908795317651]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 64.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳₪׳™׳§׳•׳¡",
+				"msbait": 28.0,
+				"shemgina": "׳₪׳™׳§׳•׳¡ 28",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.752562864221737, 32.036788634670451]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 65.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳ ׳˜׳•׳‘ ׳׳¨׳“׳›׳™",
+				"msbait": 3.0,
+				"shemgina": "׳‘׳™׳× ׳”׳‘׳™׳׳•׳™׳™׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.767985023595287, 32.042228046465105]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 66.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳¨׳‘׳ ׳• ׳™׳¨׳•׳—׳",
+				"msbait": 7.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳¨׳‘׳ ׳• ׳™׳¨׳•׳—׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.760648121625813, 32.048471685523282]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 67.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳™׳™׳–׳ ׳–׳׳׳",
+				"msbait": 1.0,
+				"shemgina": "׳’׳ ׳׳™׳™׳–׳ ׳–׳׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.747950411040456, 32.031696940341796]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 68.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳“׳” ׳׳•׳“׳™׳ ׳” ׳׳¨׳™׳”",
+				"msbait": 39.0,
+				"shemgina": "׳’׳ ׳“׳” ׳׳•׳“׳™׳ ׳”",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.779702865077233, 32.052864178819505]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 69.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳‘׳•׳§׳”",
+				"msbait": 5.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳׳‘׳•׳§׳” 5",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": "7:00-22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.829714784507608, 32.123745527246314]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 70.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳׳™׳¨ ׳׳¨׳“׳›׳™",
+				"msbait": 4.0,
+				"shemgina": "׳׳׳™׳¨ ׳׳¨׳“׳›׳™",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.814951376346755, 32.12254452472073]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 71.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳•׳¡׳™׳©׳§׳™׳",
+				"msbait": 74.0,
+				"shemgina": "׳₪׳׳¨׳§ ׳”׳™׳¨׳§׳•׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.78115975635545, 32.09562149500961]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 72.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳©׳׳¨ ׳”׳’׳‘׳•׳",
+				"msbait": 3.0,
+				"shemgina": "׳§׳¨׳ ׳§׳™׳™׳׳× - ׳׳©׳׳¨ ׳”׳’׳‘׳•׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": "7:00-22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.803687723974818, 32.122381153145326]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 73.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳§׳•׳׳׳™׳•׳×",
+				"msbait": 26.0,
+				"shemgina": "׳§׳•׳׳׳™׳•׳×",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.805724706095738, 32.119077647569803]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 74.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳‘׳ ׳’׳‘׳™׳¨׳•׳",
+				"msbait": 213.0,
+				"shemgina": "׳׳‘׳ ׳’׳‘׳™׳¨׳•׳ 213 ( ׳‘׳™׳× ׳”׳׳•׳•׳™׳•׳× )",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.782217728402124, 32.099988502105482]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 75.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳×׳ ׳‘׳¨׳•׳",
+				"msbait": 13.0,
+				"shemgina": "׳¨׳₪׳™׳“׳™׳-׳¦׳₪׳•׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.811962378589975, 32.118569432097274]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 76.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳׳•׳™׳ ׳¡׳§׳™",
+				"msbait": 95.0,
+				"shemgina": "׳’׳ ׳”׳§׳•׳•׳§׳–׳™׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.778110530400028, 32.0578382156909]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 77.0,
+				"Idgina": 2.0,
+				"shemrechov": "׳˜׳׳’׳•׳¨",
+				"msbait": 2.0,
+				"shemgina": "׳׳׳—׳•׳¨׳™ ׳‘׳™׳× ׳”׳©׳—׳׳˜",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.795436730890032, 32.113487345367311]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 78.0,
+				"Idgina": 0.0,
+				"shemrechov": "׳‘׳•׳™׳׳¨ ׳׳‘׳¨׳”׳",
+				"msbait": 5.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳•׳™׳׳¨ ׳׳‘׳¨׳”׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.795579556153093, 32.123663984828127]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 79.0,
+				"Idgina": null,
+				"shemrechov": "׳“׳ ׳™׳׳ ׳׳•׳¨׳™׳¥",
+				"msbait": 32.0,
+				"shemgina": "׳׳•׳¨׳™׳¥ ׳“׳ ׳™׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.763340381717398, 32.051744454004591]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 80.0,
+				"Idgina": null,
+				"shemrechov": "׳׳™׳¨׳•׳¡",
+				"msbait": 19.0,
+				"shemgina": "׳‘׳™׳× ׳”׳‘׳™׳׳•׳™׳™׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳›׳•׳©׳¨",
+				"shaot": null
+			},
+			"geometry": null
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 81.0,
+				"Idgina": 112.0,
+				"shemrechov": "׳§׳”׳™׳׳× ׳׳•׳“׳’'",
+				"msbait": 23.0,
+				"shemgina": "׳§׳”׳™׳׳× ׳׳•׳“׳’'",
+				"teurmikum": null,
+				"shaot": null
+			},
+			"geometry": null
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 82.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳¨׳׳™׳ ׳׳׳™׳”׳•",
+				"msbait": 8.0,
+				"shemgina": "׳‘׳¨׳׳™׳ ׳׳׳™׳”׳•",
+				"teurmikum": "׳₪׳™׳ ׳× ׳›׳•׳©׳¨",
+				"shaot": null
+			},
+			"geometry": null
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 83.0,
+				"Idgina": null,
+				"shemrechov": "׳”׳¨׳•׳’׳™ ׳׳׳›׳•׳×",
+				"msbait": 1.0,
+				"shemgina": "׳׳©׳׳¨ ׳”׳™׳¨׳“׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳›׳•׳©׳¨",
+				"shaot": null
+			},
+			"geometry": null
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.841490465821579, 32.117620149926189]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 85.0,
+				"Idgina": null,
+				"shemrechov": "׳¢׳•׳׳™ ׳”׳’׳¨׳“׳•׳",
+				"msbait": 25.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳¢׳•׳׳™ ׳”׳’׳¨׳“׳•׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": "07:00 - 22:00"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.835300549181504, 32.112207628632255]
+			}
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.779110,31.978067]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.783659,31.986803]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.781610,31.961547]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.799516,31.956732]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.785311,31.972096]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.817669,31.962303]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.816403,31.946099]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.820480,31.968856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.789195,31.967673]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.770055,31.982198]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.771278,31.966381]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.803829,31.955239]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.762373,31.981598]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.739714,31.998505]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.766235,31.969311]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"oidgina": 84.0,
+				"Idgina": null,
+				"shemrechov": "׳‘׳™׳× ׳׳",
+				"msbait": 30.0,
+				"shemgina": "׳—׳•׳¨׳©׳× ׳‘׳× ׳׳",
+				"teurmikum": "׳₪׳™׳ ׳× ׳©׳—׳¨׳•׳¨ ׳›׳׳‘׳™׳",
+				"shaot": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.785054,31.982890]
+			}
+		}
+	]
+}
